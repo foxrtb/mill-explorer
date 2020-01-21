@@ -11,12 +11,13 @@ Iquidus Explorer - 1.7.3
 * apt install mongodb
 * apt install nodejs npm
 * npm install pm2 -g
-** (start explorer with pm2) > pm2 start /opt/explorer/bin/instance --name explorer
+** start explorer with pm2)
+    >   pm2 start /opt/explorer/bin/instance --name explorer
 
 
 
 
-An open source block explorer written in node.js.
+
 
 ### See it in action
 
